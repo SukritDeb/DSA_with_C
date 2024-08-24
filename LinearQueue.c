@@ -49,7 +49,7 @@ void insert(int item)
 void deletion()
 {
 	if(f==-1)
-		printf("Stack is empty\n");
+		printf("Queue is empty\n");
 	else
 		printf("Removing element: %d\n",f);
 		f++;
